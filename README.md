@@ -13,7 +13,7 @@ This repository contains an implementation of the LZW (Lempel-Ziv-Welch) compres
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/lzw-compression.git
+git clone https://github.com/Abullah7/lzw-compression.git
 cd lzw-compression
 ```
 
